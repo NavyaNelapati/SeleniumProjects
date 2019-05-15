@@ -49,7 +49,7 @@ public class ChallengeTest {
 			if(i==3){
 			element.click();
 			System.out.println(text);
-			System.out.println(driver.findElement(By.xpath("//div[@class='ui-agent__logo']")));
+			System.out.println(driver.findElement(By.xpath("//div[@class='ui-agent__logo2']")));
 			}
 			}
 
